@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+}
+
+.commentBox {
+  margin: 100px auto 0;
+  width: 300px;
+}
+
+.commentForm {
+  padding: 5px;
+}
+.commentForm input {
+  margin-top: 20px;
+}
+
+.commentList {
+  /*width: 300px;*/
+  border: 1px solid rgb(199, 196, 197);
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.comment {
+  border-bottom: 1px dashed rgb(39, 215, 57);
+  padding: 5px 10px;
+}
+
+.comment h4 {
+  color: rgb(143, 137, 140);
+  font-size: 22px;
+}
+
+.comment p {
+  color: rgb(191, 191, 191);
+  font-size: 14px;
+}
