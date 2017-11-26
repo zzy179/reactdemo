@@ -39,5 +39,6 @@ devServer:{
   inline:true,
   hot:true,
   host:'0.0.0.0'
-}
+},
+devtool:'inline-source-map'
 };
